@@ -1,4 +1,4 @@
-# FuelEfficiency_project_R
+# FuelEfficiency project using R script
 
 ## Problem statement
 The U.S. Department of Energy’s Fuel Economy Guide provides fuel efficiency data for cars and trucks. A sample of the data for 311 compact, midsized, and large cars is provided in fueldata.csv.
